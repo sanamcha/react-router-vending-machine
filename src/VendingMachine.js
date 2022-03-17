@@ -8,9 +8,10 @@ const VendingMachine = () => {
     return (
         <div className='VendingMachine'>
             <img src={vendingMachineImg} alt="vending machine"/>
-            <h1>Hello I am vending Machine. What would you like to eat?</h1>
-            <h1><Link to='/soda'>Soda</Link></h1>
-            <h1><Link to='/chips'>Chips</Link></h1>
+            <h1>HELLO I AM VENDING MACHINE. WHAT WOULD YOU LIKE TO EAT?</h1>
+            <h1><Link to='/soda'>SODA</Link></h1>
+            <h1><Link to='/chips'>CHIPS</Link></h1>
+            <h1><Link to='/sardines'>FRESH SARDINES</Link></h1>
         </div>
     );
 }
