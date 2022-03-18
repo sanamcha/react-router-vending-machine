@@ -1,0 +1,22 @@
+.Chips {
+    height: 100vh;
+    width: 100vw;
+  
+  }
+  
+  .Chips button {
+    padding:10px;
+    font-size: 25px;
+    background-color: rgb(165, 237, 247);
+  }
+  
+  .Chips button:hover {
+    background-color: rgb(196, 86, 137);
+    cursor: pointer;
+  }
+  
+  .packet {
+    height: 200px; 
+    position: absolute;
+    z-index: -1;
+  }

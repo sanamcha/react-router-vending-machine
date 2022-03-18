@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import { Link } from "react-router-dom";
 import chipsImage from "./images/Chips.png";
+import './Chips.css'
 
 
 const Chips = () => {
